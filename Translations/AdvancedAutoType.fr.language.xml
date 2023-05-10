@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translation>
+  <!-- 
+    Increment the TranslationVersion every time the translation file is updated
+	Also update the version.info file
+  -->
+  <TranslationVersion>1</TranslationVersion>
+  <item>
+    <key>ErrorHotKeyAAT</key>
+    <value>{0} n'a pas pu être enregistrée en tant que touche de raccourci alternative de type automatique</value>
+  </item>
+  <item>
+    <key>ErrorHotKeyPWOnly</key>
+    <value>{0} ne peut pas être enregistré en tant que touche de raccourci réservée au mot de passe</value>
+  </item>
+  <item>
+    <key>ErrorHotKeyUsernameOnly</key>
+    <value>{0} ne peut pas être enregistré en tant que touche de raccourci réservée au nom d'utilisateur</value>
+  </item>
+  <item>
+    <key>Options</key>
+    <value>Configuration du Type Automatique Avancé</value>
+  </item>
+  <item>
+    <key>GlobalAutotypeHotKey</key>
+    <value>Touches de raccourci du Type Automatique Global :</value>
+  </item>
+  <item>
+    <key>PasswordOnlyHotKey</key>
+    <value>Mot de passe uniquement</value>
+  </item>
+  <item>
+    <key>AATHotKey</key>
+    <value>Touches de raccourci alternative du Type Automatique :</value>
+  </item>
+  <item>
+    <key>PasswordEnterHotKey</key>
+    <value>Mot de passe + Entré</value>
+  </item>
+  <item>
+    <key>UsernameEnterHotKey</key>
+    <value>Nom d'utilisateur + Entré</value>
+  </item>
+  <item>
+    <key>Hotkeys</key>
+    <value>Touches de raccourci</value>
+  </item>
+  <item>
+    <key>Integration</key>
+    <value>Amélioration du formulaire de Type Automatique de Sélection d'Entrée</value>
+  </item>
+  <item>
+    <key>ColumnsSortable</key>
+    <value>Cliquez sur l'entête de la colonne pour trier les entrées</value>
+  </item>
+  <item>
+    <key>AddDBColumn</key>
+    <value>Ajouter la colonne DB si des entrées provenant d'au moins 2 bases de données sont affichées</value>
+  </item>
+  <item>
+    <key>SpecialColumns</key>
+    <value>Type Automatique RÉSERVÉ aux noms d'utilisateurs / mot de passe lorsque le nom d'utilisateur est cliqué / mot de passe</value>
+  </item>
+  <item>
+    <key>KeepATOpen</key>
+    <value>Ne fermez pas le formulaire de Sélection des Entrées de Type Automatique</value>
+  </item>
+  <item>
+    <key>ExcludeExpiredGroups</key>
+    <value>Exclure les entrées des groupes expirés</value>
+  </item>
+  <item>
+    <key>AATFormShowGroups</key>
+    <value>Regrouper par colonne de tri</value>
+  </item>
+  <item>
+    <key>ColumnsSortRemember</key>
+    <value>Préserver les paramètres de tri</value>
+  </item>
+  <item>
+    <key>AWMCheckDuplicateInfo</key>
+    <value>Ce titre de fenêtre est déjà défini en tant que séquence de Type Automatique..</value>
+  </item>
+  <item>
+    <key>AWMCheckDuplicateDetails</key>
+    <value>Si vous voulez éditer la séquence de Type Automatique existante, cliquez '{0}'.
+Si vous voulez ajouter une autre séquence de Type Automatique, cliquez '{1}'.
+Si vous voulez passez ces entrées, cliquez '{2}', s'il vous plaît.</value>
+  </item>
+  <item>
+    <key>SearchAsYouType</key>
+    <value>Autoriser le filtrage des entrées</value>
+  </item>
+</Translation>
